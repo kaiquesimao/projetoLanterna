@@ -44,7 +44,6 @@ class MainActivity : AppCompatActivity() {
          cameraId = cameraManager.cameraIdList[0]
          cameraManager.setTorchMode(cameraId, estado)
      }catch (e: Exception){
-
      }
     }
 }

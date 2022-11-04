@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">lanterna</string>
     <string name="icone_de_lanterna_desligada">icone de lanterna desligada</string>
+    <string name="string_lanterna">Clique para ligar e desligar a lanterna!</string>
 </resources>
