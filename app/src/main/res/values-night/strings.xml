@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="string_lanterna">Clique para ligar e desligar a lanterna!</string>
+    <string name="string_lanterna">Clique no ícone para ligar e desligar a lanterna!</string>
 </resources>
